@@ -1,4 +1,3 @@
 # Summary
 
-* [Cheat Sheet](cheet_sheet/README.md)
-
+* [Cheat Sheet](cheat_sheet/README.md)
